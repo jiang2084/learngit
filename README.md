@@ -13,3 +13,4 @@ git checkout -- xxx // 注意 -- 没有，git checkout 表示切换分支，用�
 Creating a new branch is quick and simple.
 
 验证分支策略
+本地修改
