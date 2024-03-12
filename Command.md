@@ -5,3 +5,5 @@
 4. 创建 + 切换分支 git checkout -b xxx  或者 git switch -c xxx
 5. 合并某个分支到当前分支 git merge xxx 
 6. 删除分支  git branch -d xxx
+
+git log --graph --pretty=oneline --abbrev-commit
