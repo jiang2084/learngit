@@ -11,3 +11,5 @@ git checkout -b dev   // 用来创建一个新的分支
 git reset HEAD xxx    用来丢弃暂存区的内容
 git checkout -- xxx // 注意 -- 没有，git checkout 表示切换分支，用来丢弃工作区的修改
 Creating a new branch is quick and simple.
+
+验证分支策略
